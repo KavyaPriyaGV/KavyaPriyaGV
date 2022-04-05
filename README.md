@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KavyaPriyaGV
-- 👀 I’m interested in FULL STACK DEVELOPMENT
-- 🌱 I’m currently learning FRONT END DEVELOPMENT
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning front end development
 
 - 📫 How to reach me gvkavyapriya@gmail.com
 
